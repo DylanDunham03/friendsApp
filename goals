@@ -1,0 +1,7 @@
+Here are the goals we are tying to achieve.
+1. Building the AI/ML algorithm for being able to suggest new locations, places. 
+2. Finding an API that can create the image for each thing the AI/ML algorithm suggests.
+3. Adding a username and password system to be used by users; authentication; connection to friends; being able to make a pool.
+    (Pool -> A group created which is where the recommendations are being recommended based on earlier created keywords - groups shoudl work similar to splitwise)
+4. Make sure that users are being assigned to correct room based on codes, invites, links (focus on one or the other first.)
+5. While working on this make sure you are actively concerned about the integration section; ideally build the front end and back end together. 
