@@ -17,3 +17,15 @@ To help keep our requirements.txt up to data
 ```
 pip3 freeze > requirements.txt
 ```
+
+# Starting the service
+
+### Frontend
+```
+npm start
+```
+
+### Backend
+```
+python3 app.py
+```
