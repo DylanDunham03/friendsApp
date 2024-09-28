@@ -13,7 +13,7 @@ pipx install flask
 pip3 install -r requirements.txt
 ```
 
-To help keep our requirements.txt up to data
+To help keep our requirements.txt up to date
 ```
 pip3 freeze > requirements.txt
 ```
